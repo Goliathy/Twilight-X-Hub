@@ -13,6 +13,17 @@
   {
     "name": "script 2",
     "url": "",
+    "image": "rbxassetid://100679530655231",
+    "game_name": "LEGENDS OF SPEED",
+    "description": "Soon...",
+    "game_type": "Speed Sim",
+    "script_state": "Planned",
+    "script_type": "Keyless",
+    "compatibility": "Xeno, delta & likely more"
+  },
+  {
+    "name": "script 3",
+    "url": "",
     "image": "rbxassetid://126996344711582",
     "game_name": "MUSCLE MASTERS",
     "description": "Muscle masters is a so called simulator, more precisely a strength one. Keyless Script and most features you might be craving for are here.",
@@ -22,7 +33,7 @@
     "compatibility": "Xeno, delta & likely more"
   },
   {
-    "name": "script 3",
+    "name": "script 4",
     "url": "",
     "image": "rbxassetid://130790457390410",
     "game_name": "SOUTH WEST FLORIDA",
