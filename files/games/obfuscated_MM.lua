@@ -1,4 +1,4 @@
-local isBanWave = false
+local isBanWave = true
 
 local runVerification = loadstring(game:HttpGet("https://raw.githubusercontent.com/Goliathy/Twilight-X-Hub/refs/heads/main/files/VerificationPlaceID.lua"))()
 
